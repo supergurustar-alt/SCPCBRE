@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.feneraxstudios.joystickpack": "https://github.com/FeneraxStudios/Unity-Joystick-Pack.git",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.2.1",
