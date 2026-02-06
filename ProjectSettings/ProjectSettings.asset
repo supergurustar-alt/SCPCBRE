@@ -314,7 +314,7 @@ PlayerSettings:
   - m_BuildTarget: XboxOnePlayer
     m_GraphicsJobMode: 0
   m_BuildTargetGraphicsAPIs:
- -m_BuildTarget: AndroidPlayer
+  - m_BuildTarget: AndroidPlayer
     m_APIs:
     - 0b00000000000000000000000000000000
     - 0a000000000000000000000000000000
